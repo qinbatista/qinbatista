@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Developing
 - 🌱 I’m currently learning Unity3D, Python, AWS
 - 💞️ I’m looking to collaborate on Game Developing
-- 📫 How to reach me on github
 
 <!---
 qinbatista/qinbatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
