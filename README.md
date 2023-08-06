@@ -6,7 +6,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
 
 **About Me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qin-56334b173/)  
-I am passionate about game development and sharing my creations, and I enjoy communicating with players and developers。
+I am passionate about game development and sharing my creations. I also enjoy communicating with players and developers.
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
