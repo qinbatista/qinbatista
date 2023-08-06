@@ -37,7 +37,7 @@ My Personal Project
 
 [This is My Oregon(unannounced)]() 
 
-My Wroked Project 
+My Wroked Projects
 > NonstopKnigt2, TerraGenesis, HitmanSinper, Iron Marines, Give it Up, Give it Up2, Samorost3, Machinarium
 
 <picture><img src="https://github.com/qinbatista/Pictures/blob/master/unnamed.png" width = 100px align="center"></picture>
@@ -53,18 +53,30 @@ My Wroked Project
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-<picture><img src="https://github.com/qinbatista/Pictures/blob/master/py.png" width = 50px align="center"></picture> **Python**
+<picture><img src="https://github.com/qinbatista/Pictures/blob/master/py.png" width = 80px align="center"></picture> **Python**
 ##
 
-[V2ray Server(Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-V2rayServer)
+[V2ray Server (Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-V2rayServer)
 
-[SSRFargate Server(Python + Docker + GitAction CI/CD + AWS EKS + AWS S3 + AWS EC2)](https://github.com/qinbatista/Docker-V2rayServer)
+[SSRFargate Server (Python + Docker + GitAction CI/CD + AWS EKS + AWS S3 + AWS EC2)](https://github.com/qinbatista/Docker-V2rayServer)
 
-[Dynamic IP Reporter(Python + Docker + GitAction CI/CD + Google Domain)](https://github.com/qinbatista/Docker-V2rayServer)
+[Dynamic IP Reporter (Python + Docker + GitAction CI/CD + Google Domain)](https://github.com/qinbatista/Docker-V2rayServer)
 
-[Light Sail Server IP Changer(Python + Docker + GitAction CI/CD + AWS Lightsail)](https://github.com/qinbatista/Docker-V2rayServer)
+[Light Sail Server IP Changer (Python + Docker + GitAction CI/CD + AWS Lightsail)](https://github.com/qinbatista/Docker-V2rayServer)
 
-[SSR Server(Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-SSRServer)
+[SSR Server (Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-SSRServer)
 
 [Discord ChatGPT(Python + Docker + Discord API + OpenAI API)](https://github.com/qinbatista/DiscordChatGPT)
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
+<picture><img src="https://github.com/qinbatista/Pictures/blob/master/6132222.png" width = 80px align="center"></picture> **C++**
+##
+
+[Vulkan Practice & Research](https://github.com/qinbatista/CS559Vulkan)
+
+[OpenGL & Computer Graphics](https://github.com/qinbatista/CS550IntroToComputerGrahpics)
+
+[OpenGL & Computer Shaders](https://github.com/qinbatista/CS557ComputerGraphicsShaders)
