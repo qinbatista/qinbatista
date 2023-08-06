@@ -1,18 +1,21 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Yupeng(覃于澎)Qin </h1> 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
 
 **About Me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qin-56334b173/)  
 I am passionate about game development and sharing my creations, and I enjoy communicating with players and developers。
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-<picture><img src="https://github.com/qinbatista/Pictures/blob/master/tu3gt6ysfxq71.png" width = 50px align="center"></picture> **Unity3D**
-
-## My Open Source Project
+<picture><img src="https://github.com/qinbatista/Pictures/blob/master/tu3gt6ysfxq71.png" width = 150px align="center"></picture>
+  
+#
+  
+My Open Source Project
 
 [Introduction of Light & indirectligh and realtime & baked ](https://github.com/qinbatista/UnityLight3D)
 
@@ -28,13 +31,13 @@ I am passionate about game development and sharing my creations, and I enjoy com
 
 [ECS0.5 Practice Disapearing Pyramid](https://github.com/qinbatista/UnityECS0.5Pyramid)
 
-## My Personal Project
+My Personal Project
 
 [DarkForest](https://github.com/qinbatista/Pictures/blob/master/output.gif)
 
 [This is My Oregon(unannounced)]() 
 
-## My Wroked Project 
+My Wroked Project 
 > NonstopKnigt2, TerraGenesis, HitmanSinper, Iron Marines, Give it Up, Give it Up2, Samorost3, Machinarium
 
 <picture><img src="https://github.com/qinbatista/Pictures/blob/master/unnamed.png" width = 100px align="center"></picture>
@@ -45,3 +48,23 @@ I am passionate about game development and sharing my creations, and I enjoy com
 <picture><img src="https://github.com/qinbatista/Pictures/blob/master/2.jpg" width = 100px align="center"></picture>
 <picture><img src="https://github.com/qinbatista/Pictures/blob/master/aa.png" width = 100px align="center"></picture>
 <picture><img src="https://github.com/qinbatista/Pictures/blob/master/3.png" width = 100px align="center"></picture>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
+<picture><img src="https://github.com/qinbatista/Pictures/blob/master/py.png" width = 50px align="center"></picture> **Python**
+##
+
+[V2ray Server(Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-V2rayServer)
+
+[SSRFargate Server(Python + Docker + GitAction CI/CD + AWS EKS + AWS S3 + AWS EC2)](https://github.com/qinbatista/Docker-V2rayServer)
+
+[Dynamic IP Reporter(Python + Docker + GitAction CI/CD + Google Domain)](https://github.com/qinbatista/Docker-V2rayServer)
+
+[Light Sail Server IP Changer(Python + Docker + GitAction CI/CD + AWS Lightsail)](https://github.com/qinbatista/Docker-V2rayServer)
+
+[SSR Server(Python + Docker + GitAction CI/CD)](https://github.com/qinbatista/Docker-SSRServer)
+
+[Discord ChatGPT(Python + Docker + Discord API + OpenAI API)](https://github.com/qinbatista/DiscordChatGPT)
+
