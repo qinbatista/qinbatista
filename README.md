@@ -2,8 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Yupeng(覃于澎)Qin </h1> 
 
 
-
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+ 
 
 **About Me** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qin-56334b173/)  
 I am passionate about game development and sharing my creations. I also enjoy communicating with players and developers!
